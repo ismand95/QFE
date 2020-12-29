@@ -1,6 +1,7 @@
 pandas 
 numpy
 statsmodels
-xlrd
+openpyxl
 matplotlib
 seaborn
+scipy
