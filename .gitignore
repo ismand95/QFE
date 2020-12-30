@@ -3,6 +3,7 @@
 *.png
 QFE\ Project/OLD/
 .DS_Store
+*.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
