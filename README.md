@@ -1,5 +1,5 @@
 ## Quantitative Financial Economics
 
-This is the homework and project work for the course in Quantitative Financial Economics.
+This is the homework and project work for the course in Quantitative Financial Economics at Aarhus BSS.
 
-I try to solve as much as possible in Python.
+The course generally uses MatLab for the various problem-sets. However I want to show my suggested solutions using Python on this repository.
